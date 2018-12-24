@@ -1,0 +1,15 @@
+# general non-source-code files
+*.hex
+*.bin
+*.elf
+*.list
+*.o
+*.ld
+
+# Segger Embedded Studio temp files
+*.emSession
+*.jlink
+Output/
+
+
+
