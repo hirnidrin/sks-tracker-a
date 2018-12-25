@@ -10,7 +10,7 @@ Better not yet.
 
 ## Engage
 
-Feedback and bug reports welcome [here](https://github.com/hirnidrin/sks-tracker-a/issues).
+Feedback and bug reports welcome [here](https://github.com/hirnidrin/tracker-gps-a/issues).
 
 
 

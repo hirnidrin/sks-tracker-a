@@ -1,6 +1,6 @@
 <!DOCTYPE CrossStudio_Project_File>
-<solution Name="sks_a_pca10056_s140" target="8" version="2">
-  <project Name="sks_a_pca10056_s140">
+<solution Name="tracker_gps_a_pca10056_s140" target="8" version="2">
+  <project Name="tracker_gps_a_pca10056_s140">
     <configuration
       Name="Common"
       arm_architecture="v7EM"
